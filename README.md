@@ -9,7 +9,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 ## Question (KPIs)
 - 1. Total Sales by Fat Content
      
-Objective: Analyze the impact of fat content on total sales.
+       Objective: Analyze the impact of fat content on total sales.
 
 - 2. Total Sales by Item Type
      
