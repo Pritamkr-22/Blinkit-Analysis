@@ -34,3 +34,6 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 - 7. All Metrics by Outlet Type
      
         Objective: Provide a comprehensive view of all key metrics broken down by different outlet types.
+
+## Dashboard
+![image alt](https://github.com/Pritamkr-22/Power-Bi-Dashboard/blob/45349a5c5867368650f6033a65c7b255e4bfd09f/Screenshot%202025-07-10%20091828.png)
